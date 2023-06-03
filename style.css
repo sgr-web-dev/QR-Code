@@ -23,7 +23,8 @@ body{
 }
 .main-container{
   width: 290px;
-  padding: 15px 5px 30px 5px;
+  height: 85%;
+  padding: 0px 5px 30px 5px;
   border-radius:15px;
   display: flex;
   flex-direction: column;
@@ -45,10 +46,10 @@ padding: 0px 5px;
   font-weight: 700;
   font-size: 1.3rem;
   padding: 0px 9px;
-  margin: 12px 0px;
+  margin: 18px 0px;
 }
 .para-content .para-2{
   font-size: 0.95rem;
   color: var(--light-blue);
-  margin-bottom: 12px;
+ 
 }
